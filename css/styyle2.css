@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(247, 51, 51); /*Commit 1 en CSS*/
+}
+.carousel{
+    margin: 0px;
+    padding: 20px;
+    max-height: 50%;
+}
+    
+img{
+    max-width: 100%;
+    max-height: 10%;
+
+}
+.bi-whatsapp{
+    margin: 15px;
+    padding: 10px;
+}

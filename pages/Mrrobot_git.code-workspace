@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Curso Java 2024/clases con ccs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mrrobot_git"
+	}
+}
